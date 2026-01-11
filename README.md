@@ -13,7 +13,8 @@ Discover 5,819 artists across 34 genres. Click any artist to find playlists on S
 
 ## Live Demo
 
-[https://spotify-artist-browser.vercel.app](https://spotify-artist-browser.vercel.app)
+- **GitHub Pages:** [https://keeltekool.github.io/spotify-artist-browser](https://keeltekool.github.io/spotify-artist-browser)
+- **Vercel:** [https://spotify-artist-browser.vercel.app](https://spotify-artist-browser.vercel.app)
 
 ## Tech Stack
 
